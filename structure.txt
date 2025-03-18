@@ -1,0 +1,22 @@
+my-json-api/
+│── data/
+│   ├── hridoy
+│   │   ├── cards.json
+│   │   ├── users.json
+│   │   ├── products.json
+│   ├── website2/
+│   │   ├── posts.json
+│   │   ├── comments.json
+│   │   ├── categories.json
+│   ├── website3/
+│   │   ├── listings.json
+│   │   ├── reviews.json
+│   │   ├── locations.json
+│── archive/
+│   ├── website1/
+│   │   ├── old-cards-202403.json
+│   │   ├── old-users-202403.json
+│   ├── website2/
+│   │   ├── old-posts-202403.json
+│── README.md
+│── .gitignore
