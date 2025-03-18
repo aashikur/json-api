@@ -10,7 +10,7 @@
       {
         "id": 2,
         "title": "Urban Architecture",
-        "description": "Experience the beauty of modern and historical buildings in the world's greatest cities.",
+        "description": "Experience the beauty of modern and historical buildings in the world's greatest cities.offer adventure and serenity all at once.",
         "image1": "https://picsum.photos/400/500",
         "image2": "https://picsum.photos/500/800"
       },
@@ -38,14 +38,14 @@
       {
         "id": 6,
         "title": "Snowy Peaks",
-        "description": "Winter mountains offer adventure and serenity all at once.",
+        "description": "Winter mountains offer adventure and serenity all at once.offer adventure and serenity all at once.",
         "image1": "https://picsum.photos/400/500",
         "image2": "https://picsum.photos/600/900"
       },
       {
         "id": 7,
         "title": "Desert Wonders",
-        "description": "Explore the vastness and beauty of deserts around the world.",
+        "description": "Explore the vastness and beauty of deserts around the world. Relax in the natural beauty of tropical islands and turquoise waters.",
         "image1": "https://picsum.photos/400/500",
         "image2": "https://picsum.photos/700/1000"
       },
@@ -66,7 +66,7 @@
       {
         "id": 10,
         "title": "Tropical Islands",
-        "description": "Relax in the natural beauty of tropical islands and turquoise waters.",
+        "description": "Relax in the natural beauty of tropical islands and turquoise waters.Relax in the natural beauty of tropical islands and turquoise waters.",
         "image1": "https://picsum.photos/400/500",
         "image2": "https://picsum.photos/1200/800"
       }
