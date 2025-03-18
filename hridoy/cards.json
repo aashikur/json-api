@@ -1,75 +1,74 @@
 {
     "cards": [
-      {
-        "id": 1,
-        "title": "Explore the Mountains",
-        "description": "Discover breathtaking views and untouched landscapes in the heart of nature.",
-        "image1": "https://picsum.photos/400/500",
-        "image2": "https://picsum.photos/600/600"
-      },
-      {
-        "id": 2,
-        "title": "Urban Architecture",
-        "description": "Experience the beauty of modern and historical buildings in the world's greatest cities.offer adventure and serenity all at once.",
-        "image1": "https://picsum.photos/400/500",
-        "image2": "https://picsum.photos/500/800"
-      },
-      {
-        "id": 3,
-        "title": "Delicious Cuisine",
-        "description": "Taste mouth-watering dishes from different cultures, crafted with love and tradition.",
-        "image1": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
-        "image2": "https://picsum.photos/800/500"
-      },
-      {
-        "id": 4,
-        "title": "Relaxing Beach Vibes",
-        "description": "Feel the warmth of the sun and the soothing sound of waves on a perfect beach getaway.",
-        "image1": "https://picsum.photos/400/500",
-        "image2": "https://picsum.photos/500/500"
-      },
-      {
-        "id": 5,
-        "title": "Wildlife Adventures",
-        "description": "Encounter the most incredible creatures in their natural habitats.",
-        "image1": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907",
-        "image2": "https://picsum.photos/800/450"
-      },
-      {
-        "id": 6,
-        "title": "Snowy Peaks",
-        "description": "Winter mountains offer adventure and serenity all at once.offer adventure and serenity all at once.",
-        "image1": "https://picsum.photos/400/500",
-        "image2": "https://picsum.photos/600/900"
-      },
-      {
-        "id": 7,
-        "title": "Desert Wonders",
-        "description": "Explore the vastness and beauty of deserts around the world. Relax in the natural beauty of tropical islands and turquoise waters.",
-        "image1": "https://picsum.photos/400/500",
-        "image2": "https://picsum.photos/700/1000"
-      },
-      {
-        "id": 8,
-        "title": "City Lights at Night",
-        "description": "The vibrant city life comes alive when the sun sets.",
-        "image1": "https://picsum.photos/400/500",
-        "image2": "https://picsum.photos/900/600"
-      },
-      {
-        "id": 9,
-        "title": "Mountains at Sunrise",
-        "description": "Wake up to breathtaking mountain views as the sun rises.",
-        "image1": "https://images.unsplash.com/photo-1524687341308-173b0cdf49c2",
-        "image2": "https://picsum.photos/600/800"
-      },
-      {
-        "id": 10,
-        "title": "Tropical Islands",
-        "description": "Relax in the natural beauty of tropical islands and turquoise waters.Relax in the natural beauty of tropical islands and turquoise waters.",
-        "image1": "https://picsum.photos/400/500",
-        "image2": "https://picsum.photos/1200/800"
-      }
+        {
+            "id": 1,
+            "title": "Explore the Mountains",
+            "description": "Discover breathtaking views and untouched landscapes in the heart of nature.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/600/700"
+        },
+        {
+            "id": 2,
+            "title": "Urban Architecture",
+            "description": "Experience the beauty of modern and historical buildings in the world's greatest cities.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/500/750"
+        },
+        {
+            "id": 3,
+            "title": "Delicious Cuisine",
+            "description": "Taste mouth-watering dishes from different cultures, crafted with love and tradition.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/800/600"
+        },
+        {
+            "id": 4,
+            "title": "Relaxing Beach Vibes",
+            "description": "Feel the warmth of the sun and the soothing sound of waves on a perfect beach getaway.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/500/650"
+        },
+        {
+            "id": 5,
+            "title": "Wildlife Adventures",
+            "description": "Encounter the most incredible creatures in their natural habitats.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/800/550"
+        },
+        {
+            "id": 6,
+            "title": "Snowy Peaks",
+            "description": "Winter mountains offer adventure and serenity all at once.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/600/850"
+        },
+        {
+            "id": 7,
+            "title": "Desert Wonders",
+            "description": "Explore the vastness and beauty of deserts around the world.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/700/950"
+        },
+        {
+            "id": 8,
+            "title": "City Lights at Night",
+            "description": "The vibrant city life comes alive when the sun sets.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/900/650"
+        },
+        {
+            "id": 9,
+            "title": "Mountains at Sunrise",
+            "description": "Wake up to breathtaking mountain views as the sun rises.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/600/850"
+        },
+        {
+            "id": 10,
+            "title": "Tropical Islands",
+            "description": "Relax in the natural beauty of tropical islands and turquoise waters.",
+            "image1": "https://picsum.photos/400/500",
+            "image2": "https://picsum.photos/1200/900"
+        }
     ]
-  }
-  
+}

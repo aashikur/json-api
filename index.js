@@ -5,13 +5,27 @@ fetch('https://raw.githubusercontent.com/aashikur/json-api/refs/heads/main/hrido
 function myfunction(data) {
 
 
+    function readMore(t){
+        const s = t.split(' ');
+
+        console.log(s);
+        if(s.length >= 10)
+        {
+            let word = '';
+            for(let i = 0; i<=10; i++){
+                word += s[i] + " ";
+            }
+            return word + "...";
+        }
+        return word;
+    }
 
     data.forEach(card => {
         console.log(card);
 
         const title = card.title;
         const img = card.image1;
-        const details = card.description;
+        const details = readMore(card.description);
         
 
         const div = document.createElement('div');
