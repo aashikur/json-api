@@ -4,141 +4,71 @@
         "id": 1,
         "title": "Explore the Mountains",
         "description": "Discover breathtaking views and untouched landscapes in the heart of nature.",
-        "image1": "https://source.unsplash.com/400x500/?mountain",
-        "image2": "https://source.unsplash.com/600x600/?mountain"
+        "image1": "https://picsum.photos/400/500",
+        "image2": "https://picsum.photos/600/600"
       },
       {
         "id": 2,
         "title": "Urban Architecture",
         "description": "Experience the beauty of modern and historical buildings in the world's greatest cities.",
-        "image1": "https://source.unsplash.com/400x500/?city,architecture",
-        "image2": "https://source.unsplash.com/500x800/?city,architecture"
+        "image1": "https://picsum.photos/400/500",
+        "image2": "https://picsum.photos/500/800"
       },
       {
         "id": 3,
         "title": "Delicious Cuisine",
         "description": "Taste mouth-watering dishes from different cultures, crafted with love and tradition.",
-        "image1": "https://source.unsplash.com/400x500/?food,cuisine",
-        "image2": "https://source.unsplash.com/800x500/?food,cuisine"
+        "image1": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+        "image2": "https://picsum.photos/800/500"
       },
       {
         "id": 4,
         "title": "Relaxing Beach Vibes",
         "description": "Feel the warmth of the sun and the soothing sound of waves on a perfect beach getaway.",
-        "image1": "https://source.unsplash.com/400x500/?beach,ocean",
-        "image2": "https://source.unsplash.com/500x500/?beach,ocean"
+        "image1": "https://picsum.photos/400/500",
+        "image2": "https://picsum.photos/500/500"
       },
       {
         "id": 5,
         "title": "Wildlife Adventures",
         "description": "Encounter the most incredible creatures in their natural habitats.",
-        "image1": "https://source.unsplash.com/400x500/?wildlife,animals",
-        "image2": "https://source.unsplash.com/800x450/?wildlife,animals"
+        "image1": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907",
+        "image2": "https://picsum.photos/800/450"
       },
       {
         "id": 6,
         "title": "Snowy Peaks",
         "description": "Winter mountains offer adventure and serenity all at once.",
-        "image1": "https://source.unsplash.com/400x500/?snow,mountain",
-        "image2": "https://source.unsplash.com/600x900/?snow,mountain"
+        "image1": "https://picsum.photos/400/500",
+        "image2": "https://picsum.photos/600/900"
       },
       {
         "id": 7,
         "title": "Desert Wonders",
         "description": "Explore the vastness and beauty of deserts around the world.",
-        "image1": "https://source.unsplash.com/400x500/?desert",
-        "image2": "https://source.unsplash.com/700x1000/?desert"
+        "image1": "https://picsum.photos/400/500",
+        "image2": "https://picsum.photos/700/1000"
       },
       {
         "id": 8,
         "title": "City Lights at Night",
         "description": "The vibrant city life comes alive when the sun sets.",
-        "image1": "https://source.unsplash.com/400x500/?city,night",
-        "image2": "https://source.unsplash.com/900x600/?city,night"
+        "image1": "https://picsum.photos/400/500",
+        "image2": "https://picsum.photos/900/600"
       },
       {
         "id": 9,
         "title": "Mountains at Sunrise",
         "description": "Wake up to breathtaking mountain views as the sun rises.",
-        "image1": "https://source.unsplash.com/400x500/?mountain,sunrise",
-        "image2": "https://source.unsplash.com/600x800/?mountain,sunrise"
+        "image1": "https://images.unsplash.com/photo-1524687341308-173b0cdf49c2",
+        "image2": "https://picsum.photos/600/800"
       },
       {
         "id": 10,
         "title": "Tropical Islands",
         "description": "Relax in the natural beauty of tropical islands and turquoise waters.",
-        "image1": "https://source.unsplash.com/400x500/?tropical,island",
-        "image2": "https://source.unsplash.com/1200x800/?tropical,island"
-      },
-      {
-        "id": 11,
-        "title": "Street Photography",
-        "description": "Capture the essence of everyday life in the city's streets.",
-        "image1": "https://source.unsplash.com/400x500/?street,photography",
-        "image2": "https://source.unsplash.com/600x900/?street,photography"
-      },
-      {
-        "id": 12,
-        "title": "Golden Hour",
-        "description": "The golden hour of the day provides the perfect lighting for stunning photos.",
-        "image1": "https://source.unsplash.com/400x500/?golden,hour",
-        "image2": "https://source.unsplash.com/800x1200/?golden,hour"
-      },
-      {
-        "id": 13,
-        "title": "Hiking Trails",
-        "description": "Adventure awaits on beautiful and rugged hiking trails.",
-        "image1": "https://source.unsplash.com/400x500/?hiking",
-        "image2": "https://source.unsplash.com/500x750/?hiking"
-      },
-      {
-        "id": 14,
-        "title": "Ancient Ruins",
-        "description": "Step back in time and explore the wonders of ancient civilizations.",
-        "image1": "https://source.unsplash.com/400x500/?ruins,history",
-        "image2": "https://source.unsplash.com/900x1200/?ruins,history"
-      },
-      {
-        "id": 15,
-        "title": "Forest Exploration",
-        "description": "Discover the lush, tranquil beauty of dense forests.",
-        "image1": "https://source.unsplash.com/400x500/?forest",
-        "image2": "https://source.unsplash.com/600x900/?forest"
-      },
-      {
-        "id": 16,
-        "title": "Modern Cafes",
-        "description": "Relax and enjoy your favorite beverages in trendy, modern cafes.",
-        "image1": "https://source.unsplash.com/400x500/?cafe,interior",
-        "image2": "https://source.unsplash.com/700x1000/?cafe,interior"
-      },
-      {
-        "id": 17,
-        "title": "Peaceful Lakeside",
-        "description": "Find serenity and peace by the tranquil waters of a lake.",
-        "image1": "https://source.unsplash.com/400x500/?lake",
-        "image2": "https://source.unsplash.com/800x600/?lake"
-      },
-      {
-        "id": 18,
-        "title": "Autumn Leaves",
-        "description": "Experience the stunning colors of fall in nature.",
-        "image1": "https://source.unsplash.com/400x500/?autumn,leaves",
-        "image2": "https://source.unsplash.com/600x800/?autumn,leaves"
-      },
-      {
-        "id": 19,
-        "title": "Night Sky",
-        "description": "Stargaze under a clear night sky filled with millions of stars.",
-        "image1": "https://source.unsplash.com/400x500/?night,sky",
-        "image2": "https://source.unsplash.com/700x1000/?night,sky"
-      },
-      {
-        "id": 20,
-        "title": "Peaceful Countryside",
-        "description": "Enjoy the quiet, peaceful vibes of the countryside.",
-        "image1": "https://source.unsplash.com/400x500/?countryside",
-        "image2": "https://source.unsplash.com/800x1200/?countryside"
+        "image1": "https://picsum.photos/400/500",
+        "image2": "https://picsum.photos/1200/800"
       }
     ]
   }
