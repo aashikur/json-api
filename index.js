@@ -5,33 +5,25 @@ fetch('https://raw.githubusercontent.com/aashikur/json-api/refs/heads/main/hrido
 function myfunction(data) {
 
 
-    function readMore(t){
-        const s = t.split(' ');
-
-        console.log(s);
-        if(s.length >= 10)
-        {
-            let word = '';
-            for(let i = 0; i<=10; i++){
-                word += s[i] + " ";
-            }
-            return word + "...";
-        }
-        return word;
-    }
 
     data.forEach(card => {
-        console.log(card);
+    
+        const readMore = (x) => {
+            x = x.length > 60 ? x.slice(0,60) + '...' : x ;
+            console.log(x.length, x);
+            return x;
+        }
 
         const title = card.title;
         const img = card.image1;
-        const details = readMore(card.description);
+        
+        const details = readMore(card.description); 
         
 
         const div = document.createElement('div');
         div.innerHTML = `
- <article
-                class="bg-gray-800 overflow-hidden rounded-lg border border-gray-700 p-4 shadow-sm transition hover:shadow-primary cursor-default custom-cursor-default-hover">
+<article 
+            class="bg-gray-800 overflow-hidden rounded-lg border border-gray-700 p-4 shadow-sm transition hover:shadow-primary cursor-default custom-cursor-default-hover">
                 <a class="block overflow-hidden group mb-4 rounded-lg"
                     href="#0">
                     <div class="relative aspect-[4/3]">
@@ -70,12 +62,6 @@ function myfunction(data) {
         document.getElementById('cards').appendChild(div);
 
     });
-
-
-
-
-
 }
-
 
 
