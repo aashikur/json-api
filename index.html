@@ -12,9 +12,61 @@
 </head>
 
 <body class="bg-[#1F2937]">
+    
+    <div class="py-20 block animate-pulse ">
+        <h1 
+        style="animation: animate 2s ease-in-out infinite"
+        class=" font-bold text-4xl sm:text-5xl lg:text-6xl text-center bg-gradient-to-r from-green-300 to-purple-600 via-blue-500 py-4 text-transparent bg-clip-text max-w-5xl mx-auto px-10">
+        Become a Pro in Frontend Dev
+        with FrontendPro.dev
+        </h1>
+    </div>
+
+    <style>
+        @keyframes animate{
+            0%{
+                background-position: 0 0 ;
+            }
+            50%{
+                background-position: 0px 100%;
+            }
+
+            100%{
+                background-position: 0 0;
+            }
+
+        }
+
+    </style>
+    
+    
+
+
+        <div class="box border bg-orange-300 text-4xl font-bold text-transparent bg-clip-text mx-auto">
+           <h1 class="w-52"> Fetching...</h1>
+        </div>
+
+        <style>
+            .box{
+                animation : Big_Small 1s ease-in-out infinite;
+                transition: all 1s ease-in;
+            }
+
+            @keyframes Big_Small {
+                0%{
+                    width: 0px;
+                }
+                50%{
+                    width: 300px;
+                }
+                100%{
+                    width: 0px;
+                }
+            }
+        </style>
+    
+    
     <div class="w-11/12 max-w-[1476px] mx-auto py-10">
-        <h1 class="font-medium text-4xl text-white">Api fetch</h1>
-        <p class="text-gray-400">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum, perferendis.</p>
 
         <div id="cards"
             class="grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-3 gap-3 text-gray-400 bg-[#111827] py-12 px-10 mt-20 rounded-md">
@@ -22,43 +74,8 @@
             <div id="loader" class="text-center col-span-full py-30 hidden">
                 <h1>Loading...</h1>
             </div>
-            <!-- <article
-                class="bg-gray-800 overflow-hidden rounded-lg border border-gray-700 p-4 shadow-sm transition hover:shadow-primary cursor-default custom-cursor-default-hover">
-                <a class="block overflow-hidden group mb-4 rounded-lg"
-                    href="/frontend-coding-challenges/star-rating-component-geShE1ApkqUoNCqujxOd">
-                    <div class="relative aspect-[4/3]"><img alt="Star Rating Component Frontend Challenge"
-                            loading="lazy" decoding="async" data-nimg="fill"
-                            class="duration-700 ease-in-out group-hover:scale-105 scale-100 blur-0 grayscale-0"
-                            sizes="100vw"
-                            srcset="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=3840&amp;q=75 3840w"
-                            src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdi5hmgowi%2Fimage%2Fupload%2Fv1%2Fchallenges%2Fstar-rating-component%2Fdesktop-cover.png&amp;w=3840&amp;q=75"
-                            style="position: absolute; height: 100%; width: 100%; inset: 0px; object-fit: contain; color: transparent;">
-                    </div>
-                </a>
-                <div><span
-                        class="text-xs font-medium uppercase inline-flex items-center px-2.5 py-0.5 rounded text-indigo-800 bg-indigo-200 last:mr-0 mr-2">FRONTEND</span>
-                </div>
-                <h3
-                    class="font-bold text-2xl text-white tracking-tight my-2 transition duration-500 hover:underline hover:underline-offset-4">
-                    <a href="/frontend-coding-challenges/star-rating-component-geShE1ApkqUoNCqujxOd">Star Rating
-                        Component</a></h3>
-                <p class="font-light text-gray-400 mb-4">In this frontend challenge, you'll build a Star Rating
-                    Component. This challenge is perfect for you if you're interested in buildi...</p>
-                <div class="relative"><span
-                        class="text-xs font-medium uppercase inline-flex items-center px-2.5 py-0.5 rounded text-green-800 bg-green-200 last:mr-0 mr-2">Intermediate</span>
-                    <div class="overflow-hidden h-2 mt-4 flex bg-transparent">
-                        <div class="flex flex-col text-center whitespace-nowrap rounded justify-center bg-amber-200"
-                            style="width: 33%;"></div>
-                        <div class="flex flex-col text-center rounded whitespace-nowrap justify-center bg-green-200 mx-1"
-                            style="width: 33%;"></div>
-                        <div class="flex flex-col text-center rounded whitespace-nowrap justify-center bg-gray-500"
-                            style="width: 34%;"></div>
-                    </div>
-                </div>
-            </article>  -->
-            <!-- Single Cards-->
 
-
+            <!-- Table of Cards Loading  from js here  -->
 
         </div>
 

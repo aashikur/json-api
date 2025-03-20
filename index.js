@@ -26,10 +26,10 @@ function myfunction(data) {
             class="bg-gray-800 overflow-hidden rounded-lg border border-gray-700 p-4 shadow-sm transition hover:shadow-primary cursor-default custom-cursor-default-hover">
                 <a class="block overflow-hidden group mb-4 rounded-lg"
                     href="#0">
-                    <div class="relative aspect-[4/3]">
+                    <div class="relative aspect-[4/3] rounded">
                     <img alt="Card Image"
                             loading="lazy" decoding="async" data-nimg="fill"
-                            class="duration-700 ease-in-out group-hover:scale-105 scale-100 blur-0 grayscale-0 h-full w-full object-cover"
+                            class="rounded-md duration-700 ease-in-out group-hover:scale-105 scale-100 blur-0 grayscale-0 h-full w-full object-cover"
                             
                             srcset="${img}" src="${img}"
                             style="position: absolute; height: 100%; width: 100%; inset: 0px; object-fit: contain; color: transparent;">
@@ -63,5 +63,4 @@ function myfunction(data) {
 
     });
 }
-
 
