@@ -2,9 +2,6 @@
 
 This repository hosts JSON data files for testing and live API fetching.
 
-## 📂 Folder Structure
-- `data/` → Contains the latest JSON API files.
-- `archive/` → Stores previous JSON versions for reference.
 
 ## 🚀 How to Update JSON Files
 1. Edit the JSON file in the `data/` folder.
