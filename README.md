@@ -1,6 +1,6 @@
 # JSON API Repo
 
-This repository hosts JSON data files for testing and live API fetching.
+This repository hosts JSON data files for testing and live API fetching....
 
 
 ## 🚀 How to Update JSON Files
